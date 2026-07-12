@@ -1,2 +1,29 @@
-# cpp-airline-reservation
-Console-based airline reservation system developed in C++
+# C++ Airline Reservation System
+
+## 프로젝트 소개
+
+C++의 vector를 활용하여 제작한 콘솔 기반 항공기 예약 프로그램입니다.
+
+항공편 시간별 좌석 예약, 예약 취소, 좌석 조회 기능을 구현하였으며, 파일 입출력을 이용해 예약 정보를 저장하고 불러오는 기능을 구현했습니다.
+
+## 주요 기능
+
+- 좌석 예약
+- 예약 취소
+- 좌석 조회
+- 예약 정보 파일 저장
+- 예약 정보 파일 불러오기
+
+## 사용 기술
+
+- C++
+- STL(vector)
+- FILE 입출력
+- string
+
+## 학습 내용
+
+- vector를 이용한 좌석 관리
+- 함수 분리
+- 파일 입출력
+- 예약 시스템 구현
